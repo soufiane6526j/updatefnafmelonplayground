@@ -5,27 +5,27 @@
       "cpa_title":"yandex",
       "cpa_sous_title":"yandex",
       "cpa_url":"yandex",
-      "show_cpa":true,
+      "show_cpa":false,
 
       "image_silder1":"https://wallpaper.dog/large/20487356.jpg",
       "image_silder2":"https://wallpaper.dog/large/20487356.jpg",
       "image_silder3":"https://wallpaper.dog/large/20487356.jpg",
         
         
-      "banner_type":"admob",
-      "inter_type":"admob",
-      "native_type":"admob",
-      "reward_type":"admob",
+      "banner_type":"yandex",
+      "inter_type":"yandex",
+      "native_type":"yandex",
+      "reward_type":"yandex",
       
 
       "ironsource_id":"jhd78302",
       "unity_id":"87320283",
      
 
-      "banner_yandex":"R-M-DEMO-300x50",
-      "native_yandex":"R-M-DEMO-interstitial",
-      "interstitial_yandex":"R-M-DEMO-native-i",
-      "rewarde_yandex":"R-M-DEMO-300x50",
+      "banner_yandex":"R-M-2089663-1",
+      "native_yandex":"R-M-2089663-2",
+      "interstitial_yandex":"R-M-2089663-3",
+      "rewarde_yandex":"R-M-2089663-4",
 
       "openapp_admob":"ca-app-pub-3940256099942544/3419835294",
        "banner_admob":"ca-app-pub-3940256099942544/6300978111",
@@ -47,8 +47,8 @@
     },
     "skins": [
     {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
+      "imageUrl": "https://iili.io/HftExl2.jpg",
+      "title": "fanaf mod pack 1",
       "likeNumbers": "222 LIKES",
       "commentNumbers": " 333 COMMENTS",
       "downloadNumbers": "444 DOWNLOADS",
@@ -59,8 +59,8 @@
       
     },
     {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
+      "imageUrl": "https://iili.io/HftECP4.jpg",
+      "title": "fanaf mod pack 2",
       "likeNumbers": "222 LIKES",
       "commentNumbers": " 333 COMMENTS",
       "downloadNumbers": "444 DOWNLOADS",
@@ -70,8 +70,8 @@
       
     },
     {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
+      "imageUrl": "https://iili.io/HftExl2.jpg",
+      "title": "fanaf mod pack 3",
       "likeNumbers": "222 LIKES",
       "commentNumbers": " 333 COMMENTS",
       "downloadNumbers": "444 DOWNLOADS",
@@ -81,8 +81,8 @@
       
     }
     ,{
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
+      "imageUrl": "https://iili.io/HftEBVf.jpg",
+      "title": "fanaf mod pack 4",
       "likeNumbers": "222 LIKES",
       "commentNumbers": " 333 COMMENTS",
       "downloadNumbers": "444 DOWNLOADS",
@@ -93,8 +93,8 @@
       
     },
     {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
+      "imageUrl": "https://iili.io/HftEoKl.jpg",
+      "title": "fanaf mod pack 5",
       "likeNumbers": "222 LIKES",
       "commentNumbers": " 333 COMMENTS",
       "downloadNumbers": "444 DOWNLOADS",
@@ -102,8 +102,8 @@
        
     },
     {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
+      "imageUrl": "https://iili.io/HftEBVf.jpg",
+      "title": "fanaf mod pack 6",
       "likeNumbers": "222 LIKES",
       "commentNumbers": " 333 COMMENTS",
       "downloadNumbers": "444 DOWNLOADS",
@@ -111,8 +111,8 @@
      
     },
     {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
+      "imageUrl": "https://iili.io/HftEBVf.jpg",
+      "title": "fanaf mod pack 7",
       "likeNumbers": "222 LIKES",
       "commentNumbers": " 333 COMMENTS",
       "downloadNumbers": "444 DOWNLOADS",
