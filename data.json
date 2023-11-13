@@ -1,11 +1,12 @@
 { "ADS":
     {
   
-       "cpa_image":"yandex",
-      "cpa_title":"yandex",
-      "cpa_sous_title":"yandex",
-      "cpa_url":"yandex",
-      "show_cpa":false,
+      
+       "cpa_image":"https://play-lh.googleusercontent.com/aJWV8t_TkTML01MsD4nnd-RMONAuxZeaflsfmBEt3dnuqerD20Rdh52x0ltFML6jcd3q=w240-h480-rw",
+      "cpa_title":"TO INSTALL THE FNAF  MOD PLEASE INSTALL THIS APP",
+      "cpa_sous_title":"UNLOCK THE PLAYGROUND MOD ",
+      "cpa_url":"https://play-lh.googleusercontent.com/cFYVVPHCAJ4vwHkpp0PRbck7KPF_ldw8z3jHGsK3sfm5cTc6zB4VVciSN18WCQPnsQE=w240-h480-rw",
+      "show_cpa":true,
 
       "image_silder1":"https://wallpaper.dog/large/20487356.jpg",
       "image_silder2":"https://wallpaper.dog/large/20487356.jpg",
